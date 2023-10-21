@@ -2,7 +2,7 @@
 #### I am student of digital development 
 ![I am student of digital development ](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 
-Website developer 
+Website developper 
 
 Skills:  HTML / CSS / JS 
 
