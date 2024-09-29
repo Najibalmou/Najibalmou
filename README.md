@@ -10,7 +10,6 @@ MongoDB. De plus, j'ai des connaissances approfondies
 en Python, notamment en programmation orientée
 objet (POO).
 
-- 🌱 I’m currently learning LARAVEL, REACT JS & MONGO DB
 - 💬 SMILE :) 
 
 
