@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Najib Almoubaraki
+### Hi there 👋, I'm Najib Almoubaraki
 ![I am student of digital development ](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 
 Je suis développeur Full-stack avec des compétences
