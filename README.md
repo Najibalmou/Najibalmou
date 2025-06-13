@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Najib! I'm a full-stack developer with a passion for building scalable and efficient web applications.
+Hi, I'm Najib! I'm a Full-Stack Developer with a passion for building scalable and efficient web applications.
 
 
 ## 🌐 Socials:
